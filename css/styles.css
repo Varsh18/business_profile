@@ -1,0 +1,59 @@
+html{
+background: url(https://aimwa.com/~/media/Side%20Gallery/Membership/Corporate%20Membership/Your%20Benefits/slide%202.ashx?mh=362&mw=646&thn=0) no-repeat center center fixed;
+background-size: cover;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+}
+.center{
+    position:fixed;
+    color:#ecf0f1;
+}
+.first{
+  font-size:43px;
+  left:27%;
+  top:30%;
+}
+.second{
+  left:34%;
+  top:37%;
+  font-size: 50px;
+}
+.header{
+  color:#6ab04c;
+  font-size: 35px;
+}
+.header-right{
+  float:right;
+}
+.header a {
+  float: left;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 12px;
+}
+.button{
+    background-color:#34CACA;
+    -moz-box-shadow: inset 0px 1px 0px 0px ##8854d0;
+    -webkit-box-shadow: inset 0px 1px 0px 0px ##8854d0;
+    box-shadow: inset 0px 1px 0px 0px ##8854d0;
+    border:1px;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    color:#FFFFFF;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 10px;
+    width: 150px;
+    padding:8px 18px;
+    margin-top: 27%;
+}
+.two{
+  margin-left: 35%;
+}
+.one{
+  float:right;
+  margin-left: 30px;
+}
